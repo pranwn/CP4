@@ -1,0 +1,28 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+.button{
+  width: 40px;
+  height: 40px;
+  background-color: darkseagreen;
+  font-size: x-large;
+  font-family: cursive;
+}
+
+.hintbutton{
+  width: 100px;
+  height: 40px;
+  background-color: darkseagreen;
+  font-size: large;
+  font-family: sans-serif;
+}
+
+.hintText{
+  font-size: large;
+  font-family: cursive;
+}
+
